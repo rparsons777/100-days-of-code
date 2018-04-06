@@ -6,10 +6,10 @@
         * CSS
         * JavaScript/JQuery
     - Resources-
-        * [HTML5 Foundations] (https://www.wiley.com/en-us/HTML5+Foundations-p-9781118356555)
-        * [CSS3 Foundations] (https://ianlunn.co.uk/store/css3-foundations/)
+        * [HTML5 Foundations](https://www.wiley.com/en-us/HTML5+Foundations-p-9781118356555)
+        * [CSS3 Foundations](https://ianlunn.co.uk/store/css3-foundations/)
     - Practice-
-        * [Codecademy] (https://www.codecademy.com/en/tracks/projects)
+        * [Codecademy](https://www.codecademy.com/en/tracks/projects)
 
 2. Advanced Web Tools
     * Node.js (Express)
